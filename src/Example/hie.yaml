@@ -1,0 +1,8 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "democlash:lib"
+    - path: "./bin/Clash.hs"
+      component: "democlash:exe:clash"
+    - path: "./bin/Clashi.hs"
+      component: "democlash:exe:clashi"
